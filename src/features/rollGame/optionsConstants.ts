@@ -43,7 +43,7 @@ const options = [
       type: 'slider',
       step: 1,
       min: 2,
-      max: 16,
+      max: 3000,
       marks: numberOfGamesMarks,
     },
   },
